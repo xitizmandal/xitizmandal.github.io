@@ -3,7 +3,7 @@ layout: default
 title: About
 subheading: Kshitiz Mandal
 tags: jekyll theme yat
-banner: https://bit.ly/32PAjtM
+banner: "assets/images/banners/about.png"
 ---
 
 ## About
@@ -21,3 +21,8 @@ It will mainly focus on
 - twitter: [xitizmandal](https://www.twitter.com/xitizmandal)
 - github: [xitizmandal](https://www.github.com/xitizmandal)
 - linkedin: [kshitizmandal](https://www.linkedin.com/in/kshitizmandal)
+
+
+### Credits:
+* Home page Banner <a href="http://www.freepik.com">Designed by fullvector / Freepik</a>
+* About page Banner <a href="http://www.freepik.com">Designed by Freepik</a>
